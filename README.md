@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @menhajhayat
-- i am a first year college student and 17 year old as 2022.
+- i am a 2nd year college student and 17 year old as 2022.
 - 👀 I’m interested in  python and frontend website projects
 - i am expert in html intermediate in css and java script...
 - 🌱 I’m currently learning python...
